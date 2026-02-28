@@ -1,0 +1,6 @@
+.shadow-title {
+        color: #ffff09;
+        font-size: 63px;
+        text-shadow: 3px 3px 6px rgba(255, 0, 0, 0.5);
+        text-align: center;
+}
